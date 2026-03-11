@@ -1,4 +1,4 @@
 file and contents
 new line add
 This line is changed locally
-This line is changed locally again
+This line is changed from GitHub again
